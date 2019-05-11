@@ -3,3 +3,5 @@ Code for an Arduino based Pong Game using four 8x8 LED matrices, 2 joysticks, an
 
 Requires the LedControl and Binary libraries to control the matrices.
 Requires an Arduino Mega or similar board due to the project requiring a rather large number of digital pins.
+
+This branch is devoted to a prototype program to take an input of a xy coordinate from the serial monitor and convert into its position on the LED matrix display.
